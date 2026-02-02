@@ -4,7 +4,7 @@
 
 A passionate web development student currently learning the MERN stack at Programming Hero (Batch 13). I love building interactive web applications and solving coding challenges. I'm dedicated to writing clean code and constantly improving my skills.
 
-Skills: C / HTML5 / CSS3, JavaScript / Bootstrap/ Tailwind CSS / React.js / Node.js / Express.js / MongoDB / Firebase
+Skills: C / C++ / HTML5 / CSS3, JavaScript / Bootstrap/ Tailwind CSS / React.js / Node.js / Express.js / MongoDB / Firebase
 
 - 🔭 I’m currently working on Personal projects using React and Tailwind CSS. 
 - 🌱 I’m currently learning The FULL stack at Programming Hero (Batch 13). 
