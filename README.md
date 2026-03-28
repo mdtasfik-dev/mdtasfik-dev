@@ -216,6 +216,6 @@ const developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Clean%20Code.%20Real%20Impact.%20👾&fontSize=26&fontColor=c4b5fd&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Clean%20Code.%20Real%20Impact.%20&fontSize=26&fontColor=c4b5fd&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
