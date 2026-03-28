@@ -118,16 +118,34 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdtasfik-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtasfik-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" width="42%"/>
+### 📈 Stats & Languages
+
+<a href="https://github.com/mdtasfik-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdtasfik-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=ffffff&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/mdtasfik-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtasfik-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c4b5fd&text_color=ffffff&langs_count=8"/>
+</a>
+
+</div>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdtasfik-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e2e8f0&dates=8b949e&stroke=c4b5fd)](https://git.io/streak-stats)
+<div align="center">
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdtasfik-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+
+</div>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdtasfik-dev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+### 📅 Contribution Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdtasfik-dev&bg_color=0D1117&color=c4b5fd&line=7c3aed&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,7 +155,6 @@ const developer = {
 
 <div align="center">
 
-<!-- GitHub Badges & Milestones -->
 ![Commits](https://img.shields.io/badge/Total%20Commits-70%2B-c4b5fd?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public%20Repos-5%2B-7c3aed?style=for-the-badge&logo=github&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-MERN-06B6D4?style=for-the-badge&logo=mongodb&logoColor=white)
