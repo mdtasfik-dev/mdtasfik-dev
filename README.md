@@ -57,11 +57,11 @@ const developer = {
 
 <br/>
 
-- Currently building full-stack MERN applications with real-world use cases
-- Turning complex problems into clean, user-friendly solutions
-- Deep-diving into **Next.js** and **System Design**
-- Actively seeking **freelance contracts**, collaborations, and entry-level dev roles
-- Fast learner — started coding in September 2025, already shipping production apps
+- 🚀 Currently building full-stack MERN applications with real-world use cases
+- 🔄 Turning complex problems into clean, user-friendly solutions
+- 📖 Deep-diving into **Next.js** and **System Design**
+- 💼 Actively seeking **freelance contracts**, collaborations, and entry-level dev roles
+- ⚡ Fast learner — started coding in September 2025, already shipping production apps
 
 <br clear="right"/>
 
@@ -203,8 +203,8 @@ const developer = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-70%2B-e2c97e?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Repos](https://img.shields.io/badge/Public%20Repos-5%2B-e2c97e?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Commits](https://img.shields.io/badge/Total%20Commits-100%2B-e2c97e?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/Public%20Repos-11%2B-e2c97e?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 ![Stack](https://img.shields.io/badge/Stack-MERN-22c55e?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Open%20to%20Work-YES-22c55e?style=for-the-badge&labelColor=0D1117)
 
@@ -319,7 +319,7 @@ Response time is under 24 hours.
 <br/>
 
 **Currently available for freelance and remote opportunities.**  
-If my work is useful to you, a star on my repos goes a long way.
+If my work is useful to you, a star on my repos goes a long way. ⭐
 
 <br/>
 
