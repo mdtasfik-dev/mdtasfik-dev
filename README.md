@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Web+Applications;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%7C+Great+UX+%7C+Real+Impact;🎓+CSE+Student+%40+Infra+Polytechnic+%F0%9F%87%A7%F0%9F%87%A9;💼+Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Web+Applications;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%7C+Great+UX+%7C+Real+Impact;🎓+CSE+Student+%40+Infra+Polytechnic+Institute%F0%9F%87%A7%F0%9F%87%A9;💼+Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
@@ -328,6 +328,6 @@ const developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Clean%20Code.%20Real%20Impact.%20👾&fontSize=26&fontColor=c4b5fd&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Clean%20Code.%20Real%20Impact.%20&fontSize=26&fontColor=c4b5fd&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
