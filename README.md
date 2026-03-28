@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Web+Applications;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%7C+Great+UX+%7C+Real+Impact;🎓+CSE+Student+%40+Infra+Polytechnic+Institute+%F0%9F%87%A7%F0%9F%87%A9;💼+Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Web+Applications;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%7C+Great+UX+%7C+Real+Impact;🎓+CSE+Student+%40+Infra+Polytechnic+%F0%9F%87%A7%F0%9F%87%A9;💼+Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,7 +49,7 @@ const developer = {
   currentFocus : "Building production-ready MERN apps",
   available    : true,   // ✅ Open for work!
   email        : "tasfikofficial01@gmail.com",
-  motto        : "Clean code. Real impact. One commit at a time. ",
+  motto        : "Clean code. Real impact. One commit at a time. 👾",
 };
 ```
 
@@ -127,7 +127,7 @@ const developer = {
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdtasfik-dev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdtasfik-dev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,7 +137,8 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdtasfik-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy widget - works best when you have some GitHub activity -->
+<img src="https://github-profile-trophy.vercel.app/?username=mdtasfik-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" />
 
 </div>
 
@@ -147,21 +148,24 @@ const developer = {
 
 <div align="center">
 
+<!-- Make sure these exact repo names exist on your GitHub account -->
 <a href="https://github.com/mdtasfik-dev/g3-architects-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=g3-architects-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=g3-architects-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
 </a>
+&nbsp;
 <a href="https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=B13-A1-Knowledge-Vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=B13-A1-Knowledge-Vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
 </a>
+&nbsp;
 <a href="https://github.com/mdtasfik-dev/hero-dev-protfolio-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=hero-dev-protfolio-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=hero-dev-protfolio-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
 </a>
 
 </div>
 
 <br/>
 
-> **Roadmap:** Real-time Chat App · E-Commerce Platform · Job Portal · SaaS Dashboard — *all coming soon with full MERN stack!*
+> 🔨 **Roadmap:** Real-time Chat App · E-Commerce Platform · Job Portal · SaaS Dashboard — *all coming soon with full MERN stack!*
 
 ---
 
@@ -169,14 +173,54 @@ const developer = {
 
 <div align="center">
 
-| Technology | Progress | Level |
-|:---|:---:|:---:|
-| <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> Advanced Patterns | `████████░░` 80% |  Proficient |
-| <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> Full-Stack Apps | `██████░░░░` 60% |  Intermediate |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> Backend APIs | `███████░░░` 70% |  Proficient |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> Database Design | `█████░░░░░` 50% |  Growing |
-| <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> Auth & Storage | `███████░░░` 70% |  Proficient |
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> Type Safety | `████░░░░░░` 40% | Learning |
+<table>
+  <thead>
+    <tr>
+      <th>Technology</th>
+      <th>Progress Bar</th>
+      <th>%</th>
+      <th>Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" /> Advanced</td>
+      <td><img src="https://geps.dev/progress/80?dangerColor=c4b5fd&warningColor=c4b5fd&successColor=7c3aed" /></td>
+      <td><b>80%</b></td>
+      <td>🔥 Proficient</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> Full-Stack</td>
+      <td><img src="https://geps.dev/progress/60?dangerColor=c4b5fd&warningColor=c4b5fd&successColor=7c3aed" /></td>
+      <td><b>60%</b></td>
+      <td>📖 Intermediate</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> Backend</td>
+      <td><img src="https://geps.dev/progress/70?dangerColor=c4b5fd&warningColor=c4b5fd&successColor=7c3aed" /></td>
+      <td><b>70%</b></td>
+      <td>🔥 Proficient</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> Database</td>
+      <td><img src="https://geps.dev/progress/50?dangerColor=c4b5fd&warningColor=c4b5fd&successColor=7c3aed" /></td>
+      <td><b>50%</b></td>
+      <td>🌱 Growing</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> Auth</td>
+      <td><img src="https://geps.dev/progress/70?dangerColor=c4b5fd&warningColor=c4b5fd&successColor=7c3aed" /></td>
+      <td><b>70%</b></td>
+      <td>🔥 Proficient</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> Types</td>
+      <td><img src="https://geps.dev/progress/40?dangerColor=c4b5fd&warningColor=c4b5fd&successColor=7c3aed" /></td>
+      <td><b>40%</b></td>
+      <td>🌱 Learning</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -188,7 +232,7 @@ const developer = {
 
 <table>
   <tr>
-    <td align="center" width="60">📧</td>
+    <td align="center" width="50">📧</td>
     <td><strong>Email</strong></td>
     <td><a href="mailto:tasfikofficial01@gmail.com">tasfikofficial01@gmail.com</a></td>
   </tr>
@@ -216,6 +260,6 @@ const developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Clean%20Code.%20Real%20Impact.%20&fontSize=26&fontColor=c4b5fd&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Clean%20Code.%20Real%20Impact.%20👾&fontSize=26&fontColor=c4b5fd&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
