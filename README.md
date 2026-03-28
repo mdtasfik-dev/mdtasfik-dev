@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=MD.%20Tasfik&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Engineer%20⚡&descAlignY=62&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=MD.%20Tasfik&fontSize=75&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=%E2%9A%A1%20Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Engineer%20%E2%9A%A1&descAlignY=65&descAlign=50&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Building+Scalable+Web+Applications;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%7C+Great+UX+%7C+Real+Impact;🌱+CSE+Student+%40+Infra+Polytechnic+%F0%9F%87%A7%F0%9F%87%A9;💼+Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+Web+Applications;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🎯+Clean+Code+%7C+Great+UX+%7C+Real+Impact;🌱+CSE+Student+%40+Infra+Polytechnic+%F0%9F%87%A7%F0%9F%87%A9;💼+Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,6 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=mdtasfik-dev&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![wakatime](https://wakatime.com/badge/user/mdtasfik-dev.svg?style=for-the-badge)](https://wakatime.com/@mdtasfik-dev)
 
 </div>
 
@@ -119,18 +118,14 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdtasfik-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdtasfik-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtasfik-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" width="42%"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mdtasfik-dev&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e2e8f0&dates=8b949e&stroke=c4b5fd)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdtasfik-dev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=ffffff&area_color=1e1b4b&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -142,7 +137,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdtasfik-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdtasfik-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -153,13 +148,13 @@ const developer = {
 <div align="center">
 
 <a href="https://github.com/mdtasfik-dev/g3-architects-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=g3-architects-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=g3-architects-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0"/>
 </a>
 <a href="https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=B13-A1-Knowledge-Vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=B13-A1-Knowledge-Vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0"/>
 </a>
 <a href="https://github.com/mdtasfik-dev/hero-dev-protfolio-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=hero-dev-protfolio-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=hero-dev-protfolio-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0"/>
 </a>
 
 </div>
@@ -182,22 +177,6 @@ const developer = {
 | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> Database Design | `█████░░░░░` 50% | 🌱 Growing |
 | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> Auth & Storage | `███████░░░` 70% | 🔥 Proficient |
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> Type Safety | `████░░░░░░` 40% | 🌱 Learning |
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdtasfik-dev/mdtasfik-dev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdtasfik-dev/mdtasfik-dev/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdtasfik-dev/mdtasfik-dev/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚙️ *To enable the snake animation, add the [GitHub Action](https://github.com/Platane/snk) to your profile repo.*
 
 </div>
 
