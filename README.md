@@ -49,7 +49,7 @@ const developer = {
   currentFocus : "Building production-ready MERN apps",
   available    : true,   // ✅ Open for work!
   email        : "tasfikofficial01@gmail.com",
-  motto        : "Clean code. Real impact. One commit at a time. 👾",
+  motto        : "Clean code. Real impact. One commit at a time. ",
 };
 ```
 
@@ -161,7 +161,7 @@ const developer = {
 
 <br/>
 
-> 🔨 **Roadmap:** Real-time Chat App · E-Commerce Platform · Job Portal · SaaS Dashboard — *all coming soon with full MERN stack!*
+> **Roadmap:** Real-time Chat App · E-Commerce Platform · Job Portal · SaaS Dashboard — *all coming soon with full MERN stack!*
 
 ---
 
@@ -171,12 +171,12 @@ const developer = {
 
 | Technology | Progress | Level |
 |:---|:---:|:---:|
-| <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> Advanced Patterns | `████████░░` 80% | 🔥 Proficient |
-| <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> Full-Stack Apps | `██████░░░░` 60% | 📖 Intermediate |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> Backend APIs | `███████░░░` 70% | 🔥 Proficient |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> Database Design | `█████░░░░░` 50% | 🌱 Growing |
-| <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> Auth & Storage | `███████░░░` 70% | 🔥 Proficient |
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> Type Safety | `████░░░░░░` 40% | 🌱 Learning |
+| <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> Advanced Patterns | `████████░░` 80% |  Proficient |
+| <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> Full-Stack Apps | `██████░░░░` 60% |  Intermediate |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> Backend APIs | `███████░░░` 70% |  Proficient |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> Database Design | `█████░░░░░` 50% |  Growing |
+| <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> Auth & Storage | `███████░░░` 70% |  Proficient |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> Type Safety | `████░░░░░░` 40% | Learning |
 
 </div>
 
