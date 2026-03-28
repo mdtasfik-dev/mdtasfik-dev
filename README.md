@@ -137,8 +137,18 @@ const developer = {
 
 <div align="center">
 
-<!-- Trophy widget - works best when you have some GitHub activity -->
-<img src="https://github-profile-trophy.vercel.app/?username=mdtasfik-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" />
+<!-- GitHub Badges & Milestones -->
+![Commits](https://img.shields.io/badge/Total%20Commits-70%2B-c4b5fd?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-5%2B-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-MERN-06B6D4?style=for-the-badge&logo=mongodb&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+<br/>
+
+![Streak](https://img.shields.io/badge/Best%20Streak-7%20Days-f59e0b?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Coding%20Since-Sep%202025-c4b5fd?style=for-the-badge&logo=github&logoColor=white)
+![Learning](https://img.shields.io/badge/Currently%20Learning-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Country](https://img.shields.io/badge/Country-Bangladesh%20🇧🇩-006a4e?style=for-the-badge)
 
 </div>
 
@@ -148,24 +158,65 @@ const developer = {
 
 <div align="center">
 
-<!-- Make sure these exact repo names exist on your GitHub account -->
-<a href="https://github.com/mdtasfik-dev/g3-architects-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=g3-architects-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
-</a>
-&nbsp;
-<a href="https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=B13-A1-Knowledge-Vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
-</a>
-&nbsp;
-<a href="https://github.com/mdtasfik-dev/hero-dev-protfolio-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtasfik-dev&repo=hero-dev-protfolio-code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ G3 Architects Website</h3>
+      <p align="center">
+        <a href="https://github.com/mdtasfik-dev/g3-architects-website">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Professional landing page for an architecture firm. Clean layout with modern UI design.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Knowledge Vault</h3>
+      <p align="center">
+        <a href="https://github.com/mdtasfik-dev/B13-A1-Knowledge-Vault">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Interactive knowledge-sharing web app with a clean and structured interface.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Hero Dev Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/mdtasfik-dev/hero-dev-protfolio-code">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A developer portfolio template with smooth animations and responsive design.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Coming Soon...</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/In%20Progress-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+      </p>
+      <p align="center">Full-Stack MERN app with authentication, real-time features & more!</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br/>
-
-> 🔨 **Roadmap:** Real-time Chat App · E-Commerce Platform · Job Portal · SaaS Dashboard — *all coming soon with full MERN stack!*
 
 ---
 
